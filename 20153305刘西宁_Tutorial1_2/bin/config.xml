@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db>
+	<username>root</username>
+	<password>490272</password>
+	<driver>com.mysql.jdbc.Driver</driver>
+	<url>jdbc:mysql:///dp_tutorial01_2</url>
+</db>
